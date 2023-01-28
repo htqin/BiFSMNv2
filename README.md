@@ -6,7 +6,7 @@ This project is the official implementation of our paper *BiFSMNv2: Pushing Bina
 
 ## Datasets and Pretrained Models
 
-We train and test BiFSMN on Google Speech Commands V1 and V2 datasets, which can be downloaded in the reference document:
+We train and test BiFSMNv2 on Google Speech Commands V1 and V2 datasets, which can be downloaded in the reference document:
 
 - https://pytorch.org/audio/stable/_modules/torchaudio/datasets/speechcommands.html#SPEECHCOMMANDS
 
