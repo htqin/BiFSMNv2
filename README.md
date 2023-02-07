@@ -1,6 +1,6 @@
 # *BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance*
 
-Created by [Haotong Qin](https://htqin.github.io/), Xudong Ma, [Yifu Ding](https://yifu-ding.github.io/), Xiaoyang Li, Yang Zhang, Yao Tian, Zejun Ma, Jie Luo, and [Xianglong Liu](https://xlliu-beihang.github.io/) from Beihang University and Bytedance AI Lab.
+Created by [Haotong Qin](https://htqin.github.io/), Xudong Ma, [Yifu Ding](https://yifu-ding.github.io/), Xiaoyang Li, Yang Zhang, Zejun Ma, Jiakai Wang, Jie Luo, and [Xianglong Liu](https://xlliu-beihang.github.io/) from Beihang University, Bytedance AI Lab, and Zhongguancun Laboratory.
 
 ![loading-ag-172](./overview.png)
 
